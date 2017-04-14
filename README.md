@@ -1,3 +1,3 @@
 # Homework
 
-This is about my cryptography work in the Tokyo Institute of Technology
+This is about my cryptography work at the Tokyo Institute of Technology
